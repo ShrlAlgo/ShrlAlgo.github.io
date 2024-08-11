@@ -13,11 +13,15 @@
 <p>打开Revit，会发现有提示是否载入。全部总是载入。新建项目，在附加模块菜单下面，就会发现第一个就是外部工具，里面就是addin Manager. 到此，Revit二次开发环境已经配置完成。</p>
 <p>新建项目-类库(.NET Framework)</p>
 <p>框架：根据不同Revit版本有不同的.Net框架要求，如Revit 2017 要求4.5.2以上，详见Revit SDK；</p>
+<img lazyload src="/images/loading.svg" data-src="/2024/08/11/Revit-Dev-Starter/NewProject.png" class title="新建项目">
+
 <p>添加引用组件，组件位于Revit安装目录</p>
+<img lazyload src="/images/loading.svg" data-src="/2024/08/11/Revit-Dev-Starter/AddDependencies.png" class title="添加依赖">
+
+<p>创建外部命令</p>
+<img lazyload src="/images/loading.svg" data-src="/2024/08/11/Revit-Dev-Starter/NewCommand.png" class title="创建命令">
+
 <p>入门HelloWorld！</p>
-<img lazyload src="/images/loading.svg" data-src="/2024/08/11/Revit-Dev-Starter/NewProject.png" class>
-<img lazyload src="/images/loading.svg" data-src="/2024/08/11/Revit-Dev-Starter/AddDependencies.png" class>
-<img lazyload src="/images/loading.svg" data-src="/2024/08/11/Revit-Dev-Starter/NewCommand.png" class>
 ]]></content>
       <tags>
         <tag>Revit Dev</tag>
