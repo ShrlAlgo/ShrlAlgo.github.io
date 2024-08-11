@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/08/11/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Revit Dev Starter</title>
+    <title>开发环境配置</title>
     <url>/2024/08/11/Revit-Dev-Starter/</url>
     <content><![CDATA[<p>安装Revit主程序;</p>
 <p>再次安装主程序。工具和实用程序就是Revit SDK文件，包含了Revit API帮助文档和开发样例等。默认位置都在C盘。</p>
 <p>安装Visual Studio</p>
-<p>配置Add-In Manager（用于调试二次开发命令）和Revit Lookup工具（查询Revit图元信息，下载地址：<a class="link"   href="https://github.com/jeremytammik/RevitLookup" >https://github.com/jeremytammik/RevitLookup <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 先进行编译，生成dll文件）将文件解压到以下路径对应Revit版本文件夹下（用于加载插件的3个文件夹）</p>
+<p>配置Add-In Manager（用于调试二次开发命令）和Revit Lookup工具（查询Revit图元信息，下载地址：<a class="link" href="https://github.com/jeremytammik/RevitLookup">https://github.com/jeremytammik/RevitLookup <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 先进行编译，生成dll文件）将文件解压到以下路径对应Revit版本文件夹下（用于加载插件的3个文件夹）</p>
 <p>C:\ProgramData\Autodesk\Revit\Addins（一般使用此目录）</p>
 <p>C:\ProgramData\Autodesk\ApplicationPlugins（所有本机用户）</p>
 <p>C:\Users\用户名\AppData\Roaming\Autodesk\Revit\Addins(仅当前登录用户）</p>
@@ -33,24 +15,30 @@
 <p>框架：根据不同Revit版本有不同的.Net框架要求，如Revit 2017 要求4.5.2以上，详见Revit SDK；</p>
 <p>添加引用组件，组件位于Revit安装目录</p>
 <p>入门HelloWorld！</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/image.png"
-                      alt="alt text"
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/image-1.png"
-                      alt="alt text"
-                ></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/image-2.png"
-                      alt="alt text"
-                ></p>
+<p><img lazyload src="/images/loading.svg" data-src="/./Revit-Dev-Starter/NewProject.png" alt="NewProject"></p>
+<p><img lazyload src="/images/loading.svg" data-src="/./Revit-Dev-Starter/AddDependencies.png" alt="AddDependencies"></p>
+<p><img lazyload src="/images/loading.svg" data-src="/Revit-Dev-Starter/NewCommand.png" alt="NewCommand"></p>
+]]></content>
+      <tags>
+        <tag>Revit Dev</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/08/11/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link" href="https://hexo.io/">Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link" href="https://hexo.io/docs/">documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link" href="https://hexo.io/docs/troubleshooting.html">troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link" href="https://github.com/hexojs/hexo/issues">GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link" href="https://hexo.io/docs/writing.html">Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link" href="https://hexo.io/docs/server.html">Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link" href="https://hexo.io/docs/generating.html">Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link" href="https://hexo.io/docs/one-command-deployment.html">Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 ]]></content>
   </entry>
 </search>
