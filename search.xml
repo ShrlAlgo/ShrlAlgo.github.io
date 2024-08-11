@@ -15,9 +15,9 @@
 <p>框架：根据不同Revit版本有不同的.Net框架要求，如Revit 2017 要求4.5.2以上，详见Revit SDK；</p>
 <p>添加引用组件，组件位于Revit安装目录</p>
 <p>入门HelloWorld！</p>
-<p><img lazyload src="/images/loading.svg" data-src="/Revit-Dev-Starter/NewProject.png" alt="NewProject"></p>
-<p><img lazyload src="/images/loading.svg" data-src="/Revit-Dev-Starter/AddDependencies.png" alt="AddDependencies"></p>
-<p><img lazyload src="/images/loading.svg" data-src="/Revit-Dev-Starter/NewCommand.png" alt="NewCommand"></p>
+<p><img lazyload src="/images/loading.svg" data-src="/./Revit-Dev-Starter/NewProject.png" alt="NewProject"></p>
+<p><img lazyload src="/images/loading.svg" data-src="/./Revit-Dev-Starter/AddDependencies.png" alt="AddDependencies"></p>
+<p><img lazyload src="/images/loading.svg" data-src="/./Revit-Dev-Starter/NewCommand.png" alt="NewCommand"></p>
 ]]></content>
       <tags>
         <tag>Revit Dev</tag>
