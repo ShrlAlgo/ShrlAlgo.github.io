@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
+    <title>你好 Hexo</title>
     <url>/2024/08/11/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a class="link" href="https://hexo.io/">Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link" href="https://hexo.io/docs/">documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link" href="https://hexo.io/docs/troubleshooting.html">troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link" href="https://github.com/hexojs/hexo/issues">GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
+    <content><![CDATA[<p>欢迎来到<a class="link" href="https://hexo.io/">Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>!这是你第一次发文章。查阅<a class="link" href="https://hexo.io/docs/">documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>更多信息， 如果您在使用 Hexo 时遇到任何问题，可以在以下文档中找到答案<a class="link" href="https://hexo.io/docs/troubleshooting.html">troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>或者您可以在<a class="link" href="https://github.com/hexojs/hexo/issues">GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>咨询我。</p>
+<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一个文章"><a href="#创建一个文章" class="headerlink" title="创建一个文章"></a>创建一个文章</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
 
-<p>More info: <a class="link" href="https://hexo.io/docs/writing.html">Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+<p>更多信息: <a class="link" href="https://hexo.io/docs/writing.html">Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="运行服务"><a href="#运行服务" class="headerlink" title="运行服务"></a>运行服务</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
 
-<p>More info: <a class="link" href="https://hexo.io/docs/server.html">Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+<p>更多信息: <a class="link" href="https://hexo.io/docs/server.html">Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
 
-<p>More info: <a class="link" href="https://hexo.io/docs/generating.html">Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+<p>更多信息: <a class="link" href="https://hexo.io/docs/generating.html">Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="部署到远程地址"><a href="#部署到远程地址" class="headerlink" title="部署到远程地址"></a>部署到远程地址</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
 
-<p>More info: <a class="link" href="https://hexo.io/docs/one-command-deployment.html">Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>更多信息: <a class="link" href="https://hexo.io/docs/one-command-deployment.html">Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 ]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
   </entry>
   <entry>
-    <title>开发环境配置</title>
+    <title>Revit开发环境配置</title>
     <url>/2024/08/11/Revit-Dev-Starter/</url>
     <content><![CDATA[<p>安装Revit主程序;</p>
 <p>再次安装主程序。工具和实用程序就是Revit SDK文件，包含了Revit API帮助文档和开发样例等。默认位置都在C盘。</p>
@@ -45,8 +51,13 @@
 
 <p>入门HelloWorld！</p>
 ]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
       <tags>
-        <tag>Revit Dev</tag>
+        <tag>Revit</tag>
+        <tag>BIM</tag>
+        <tag>二次开发</tag>
       </tags>
   </entry>
   <entry>
@@ -114,7 +125,7 @@
 <p>为了使用自定义accent,首先你要在 ThemeManager 添加它：</p>
 <div class="highlight-container" data-rel="Csharp"><figure class="iseeu highlight csharp"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">partial</span> <span class="keyword">class</span> <span class="title">App</span> : <span class="title">Application</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="function"><span class="keyword">protected</span> <span class="keyword">override</span> <span class="keyword">void</span> <span class="title">OnStartup</span>(<span class="params">StartupEventArgs e</span>)</span></span><br><span class="line">    &#123;</span><br><span class="line">        <span class="comment">// add custom accent and theme resource dictionaries to the ThemeManager</span></span><br><span class="line">        <span class="comment">// you should replace MahAppsMetroThemesSample with your application name</span></span><br><span class="line">        <span class="comment">// and correct place where your custom accent lives</span></span><br><span class="line">        ThemeManager.AddAccent(<span class="string">&quot;CustomAccent1&quot;</span>, <span class="keyword">new</span> Uri(<span class="string">&quot;pack://application:,,,/MahAppsMetroThemesSample;component/CustomAccents/CustomAccent## 1.xaml&quot;</span>));</span><br><span class="line"></span><br><span class="line">        <span class="comment">// get the current app style (theme and accent) from the application</span></span><br><span class="line">        Tuple&lt;AppTheme, Accent&gt; theme = ThemeManager.DetectAppStyle(Application.Current);</span><br><span class="line"></span><br><span class="line">        <span class="comment">// now change app style to the custom accent and current theme</span></span><br><span class="line">        ThemeManager.ChangeAppStyle(Application.Current,</span><br><span class="line">                                    ThemeManager.GetAccent(<span class="string">&quot;CustomAccent1&quot;</span>),</span><br><span class="line">                                    theme.Item1);</span><br><span class="line"></span><br><span class="line">        <span class="keyword">base</span>.OnStartup(e);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></div>
 
-<p>它也是可以通过使用特定颜色动态创建Accent的资源字典。看看这个在 GitHub 的完整示例。<br> <img lazyload src="/images/loading.svg" data-src="/%E5%9B%BE%E7%89%871.gif" alt="ThemeManager"></p>
+<p>它也是可以通过使用特定颜色动态创建Accent的资源字典。看看这个在 GitHub 的完整示例。<br> <img lazyload src="/images/loading.svg" data-src="/2024/08/11/hello-world/kStart/ThemeManager.gif" alt="ThemeManager"></p>
 <h1 id="5-Control"><a href="#5-Control" class="headerlink" title="5 Control"></a>5 Control</h1><p>目前并不是所有的控件都记录。下面列出了与文档相关的控件列表︰</p>
 <h2 id="5-1-MetroWindow"><a href="#5-1-MetroWindow" class="headerlink" title="5.1 MetroWindow"></a>5.1 MetroWindow</h2><h3 id="5-1-1-Default"><a href="#5-1-1-Default" class="headerlink" title="5.1.1 Default"></a>5.1.1 Default</h3><p>MetroWindow 的主要用途主要是在快速开始部分详解。<br>一个没有详细的属性是 SaveWindowPosition&#x3D;”True|False” (默认 False) 选项. 设置该属性为 True 将意味着，它将自动被定位和大小调整为它是退出时的状态。 这被设计来提高用户体验和速度发展作为那些定期做的“plumbing” UI之一。<br>但是要注意 – 在程序退出并重新启动时如果监视器被分离，或出现某些情况时，您的应用程序可能会启动关闭屏幕。 一定要在代码中提供一个‘reset’ 选项或句柄。</p>
 <h3 id="5-1-2-Windowboders"><a href="#5-1-2-Windowboders" class="headerlink" title="5.1.2 Windowboders"></a>5.1.2 Windowboders</h3><p>MetroWindow 可以拥有边框：</p>
@@ -196,7 +207,7 @@
 
 <h2 id="5-10-ProgressBar"><a href="#5-10-ProgressBar" class="headerlink" title="5.10 ProgressBar"></a>5.10 ProgressBar</h2><p>MahApps.Metro ProgressBar就像重新设计的内置进度条，但是，当然，。<br> <img lazyload src="/images/loading.svg" data-src="/2024/08/11/hello-world/kStart/2022-05-09-12-36-44.png" alt="ProgressBar"><br>最上面的两个进度条是不同进度状态的ProgressBar。第三个进度条IsIndeterminate 设置为 True</p>
 <h3 id="5-10-1-MetroProgressBar"><a href="#5-10-1-MetroProgressBar" class="headerlink" title="5.10.1 MetroProgressBar"></a>5.10.1 MetroProgressBar</h3><p>MetroProgressBar 是一种可采用、简单的样式。而不是去创建一个普通的ProgressBar用途︰<br>&lt;Controls:MetroProgressBar &#x2F;&gt;<br>其运动状态看起来像 ProgressRing 但不是圆。</p>
-<h3 id="5-10-2-ProgressRing"><a href="#5-10-2-ProgressRing" class="headerlink" title="5.10.2 ProgressRing"></a>5.10.2 ProgressRing</h3><p>ProgressRing控件被仿照类似在 Windows 8 来表示活动状态的控件，而不是表示已完成进度百分比。<br><code>&lt;Controls:ProgressRing IsActive=&quot;True&quot; /&gt;</code><br>IsActive可以绑定到 viewmodel 属性。<br><code>&lt;Controls:ProgressRing IsActive=&quot;&#123;Binding IsActive&#125;&quot; /&gt;</code><br>如果您想要更改颜色，请重写Foreground。<br><code>&lt;Controls:ProgressRing Foreground=&quot;&#123;DynamicResource AccentColorBrush&#125;&quot;/&gt;</code><br>  <img lazyload src="/images/loading.svg" data-src="/%E5%9B%BE%E7%89%872.gif" alt="ProgressRing"></p>
+<h3 id="5-10-2-ProgressRing"><a href="#5-10-2-ProgressRing" class="headerlink" title="5.10.2 ProgressRing"></a>5.10.2 ProgressRing</h3><p>ProgressRing控件被仿照类似在 Windows 8 来表示活动状态的控件，而不是表示已完成进度百分比。<br><code>&lt;Controls:ProgressRing IsActive=&quot;True&quot; /&gt;</code><br>IsActive可以绑定到 viewmodel 属性。<br><code>&lt;Controls:ProgressRing IsActive=&quot;&#123;Binding IsActive&#125;&quot; /&gt;</code><br>如果您想要更改颜色，请重写Foreground。<br><code>&lt;Controls:ProgressRing Foreground=&quot;&#123;DynamicResource AccentColorBrush&#125;&quot;/&gt;</code><br>  <img lazyload src="/images/loading.svg" data-src="/2024/08/11/hello-world/kStart/ProgressRing.gif" alt="ProgressRing"></p>
 <h2 id="5-11-RangeSlider"><a href="#5-11-RangeSlider" class="headerlink" title="5.11 RangeSlider"></a>5.11 RangeSlider</h2><p> <img lazyload src="/images/loading.svg" data-src="/2024/08/11/hello-world/kStart/2022-05-09-12-37-39.png" alt="RangeSlider"><br>采取从Avalon Controls Library (MS PL)，RangeSlider 允许您选择一个范围值，而不是单个值。<br>此控件将被更新，以有更多的功能</p>
 <h3 id="5-11-1-Events"><a href="#5-11-1-Events" class="headerlink" title="5.11.1 Events"></a>5.11.1 Events</h3><p>More events was added: DragStared&#x2F;DragDelta&#x2F;DragCompleted for Lower&#x2F;Central&#x2F;Upper thumbs Events for lower&#x2F;upper value changed OldValues parameters in event args for rangeChanged event<br>添加有更多的事件︰ DragStared&#x2F;DragDelta&#x2F;DragCompleted 为低&#x2F;中&#x2F;高大拇指事件为最低&#x2F;最高值更改为 rangeChanged 事件的事件参数中的 OldValues 参数</p>
 <h3 id="5-11-2-Orientation"><a href="#5-11-2-Orientation" class="headerlink" title="5.11.2 Orientation"></a>5.11.2 Orientation</h3><p>现在range slider支持垂直方向</p>
@@ -225,7 +236,7 @@
 <h3 id="5-13-10-Example"><a href="#5-13-10-Example" class="headerlink" title="5.13.10 Example"></a>5.13.10 Example</h3><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;Controls:DropDownButton </span><br><span class="line">    VerticalContentAlignment=&quot;Center&quot;</span><br><span class="line">    Width=&quot;120&quot;</span><br><span class="line">    Content=&quot;Test&quot;</span><br><span class="line">    DisplayMemberPath=&quot;Title&quot;</span><br><span class="line">    Icon=&quot;&#123;DynamicResource appbar_music&#125;&quot;</span><br><span class="line">    ItemsSource=&quot;&#123;Binding Albums&#125;&quot;&gt;</span><br><span class="line">&lt;/Controls:DropDownButton&gt;</span><br></pre></td></tr></table></figure></div>
 
 <h2 id="5-14-TabControl"><a href="#5-14-TabControl" class="headerlink" title="5.14 TabControl"></a>5.14 TabControl</h2><p>有三种选项卡样式-AnimatedTabControl、 SingleRowAnimatedTabControl 和默认的 TabControl。默认 TabControl样式包含在 Controls.xaml，但另外两个需要特定引用 （在对 Controls.xaml 的引用后，确保添加了这些特定引用）</p>
-<h3 id="5-14-1-Default-look"><a href="#5-14-1-Default-look" class="headerlink" title="5.14.1 Default look"></a>5.14.1 Default look</h3><p> <img lazyload src="/images/loading.svg" data-src="/2024/08/11/hello-world/kStart/2022-05-09-12-39-46.png" alt="Default"><br>以上显示了三种状态-被选择的&#x2F;激活的选项卡、 悬停和非活动状态。<br>5.14.2 AnimatedTabControl<br><code>&lt;ResourceDictionary Source=&quot;pack://application:,,,/MahApps.Metro;component/Styles/Controls.AnimatedTabControl.xaml&quot; /&gt;</code><br>运作起来就像有常规的TabControl，除了它对每个选项卡的MetroContentControl 中内容的切换进行动画处理。<br> <img lazyload src="/images/loading.svg" data-src="/%E5%9B%BE%E7%89%873.gif" alt="AnimatedTabControl"></p>
+<h3 id="5-14-1-Default-look"><a href="#5-14-1-Default-look" class="headerlink" title="5.14.1 Default look"></a>5.14.1 Default look</h3><p> <img lazyload src="/images/loading.svg" data-src="/2024/08/11/hello-world/kStart/2022-05-09-12-39-46.png" alt="Default"><br>以上显示了三种状态-被选择的&#x2F;激活的选项卡、 悬停和非活动状态。<br>5.14.2 AnimatedTabControl<br><code>&lt;ResourceDictionary Source=&quot;pack://application:,,,/MahApps.Metro;component/Styles/Controls.AnimatedTabControl.xaml&quot; /&gt;</code><br>运作起来就像有常规的TabControl，除了它对每个选项卡的MetroContentControl 中内容的切换进行动画处理。<br> <img lazyload src="/images/loading.svg" data-src="/2024/08/11/hello-world/kStart/AnimatedTabControl.gif" alt="AnimatedTabControl"></p>
 <h3 id="5-14-3-AnimatedSingleRowTabControl"><a href="#5-14-3-AnimatedSingleRowTabControl" class="headerlink" title="5.14.3 AnimatedSingleRowTabControl"></a>5.14.3 AnimatedSingleRowTabControl</h3><p><code>&lt;ResourceDictionary Source=&quot;pack://application:,,,/MahApps.Metro;component/Styles/Controls.AnimatedSingleRowTabControl.xaml&quot; /&gt;</code><br>AnimatedSingleRowTabControl 的功能与AnimatedTabControl完全相同，除了选项卡只会显示在单独的一行，而不是环绕。而是使用一种（左&#x2F;右）箭头替换环绕。<br> <img lazyload src="/images/loading.svg" data-src="/2024/08/11/hello-world/kStart/2022-05-09-12-42-03.png" alt="AnimatedSingleRowTabControl"></p>
 <h2 id="5-15-TextBox-MahApps-Metro"><a href="#5-15-TextBox-MahApps-Metro" class="headerlink" title="5.15 TextBox - MahApps.Metro"></a>5.15 TextBox - MahApps.Metro</h2><p>在此库中TextBox只有一种样式了，但是它却有特殊的附加属性用于创建‘watermarked’文本框并添加‘clear’按钮。</p>
 <h3 id="5-15-1-Watermark"><a href="#5-15-1-Watermark" class="headerlink" title="5.15.1 Watermark"></a>5.15.1 Watermark</h3><p>文本框内的水印 -指之前用户已获取到焦点或输入任何文字前，显示在文本框中的文本。这往往是一种替代在文本框旁边的标签 — — 举个例子，一个搜索框会有文本“输入搜索词”以指示它的用途的水印。<br><code>&lt;TextBox Controls:TextBoxHelper.Watermark=&quot;This is a textbox&quot; /&gt;</code><br>会产生一个文本框，看起来像下面图像。这三个状态是没有获取焦点（没有用户输入的文本）、 获取焦点和没有获取焦点 （具有用户输入的文本）。<br> <img lazyload src="/images/loading.svg" data-src="/2024/08/11/hello-world/kStart/2022-05-09-12-42-18.png" alt="Watermark"></p>
@@ -268,5 +279,13 @@
 <p>结果:</p>
 <p><img lazyload src="/images/loading.svg" data-src="/2024/08/11/hello-world/kStart/2022-05-09-12-47-05.png" alt="TransitioningContentControl"></p>
 ]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>WPF</tag>
+        <tag>Windows</tag>
+        <tag>UI</tag>
+      </tags>
   </entry>
 </search>
