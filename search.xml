@@ -58,6 +58,7 @@
         <tag>Revit</tag>
         <tag>BIM</tag>
         <tag>二次开发</tag>
+        <tag>.Net</tag>
       </tags>
   </entry>
   <entry>
@@ -284,12 +285,12 @@
       </categories>
       <tags>
         <tag>WPF</tag>
-        <tag>Windows</tag>
         <tag>UI</tag>
+        <tag>.Net</tag>
       </tags>
   </entry>
   <entry>
-    <title>Regex-QuickStart</title>
+    <title>正则表达式快速入门</title>
     <url>/2024/08/12/Regex-QuickStart/</url>
     <content><![CDATA[<h2 id="什么是正则表达式？"><a href="#什么是正则表达式？" class="headerlink" title="什么是正则表达式？"></a>什么是正则表达式？</h2><blockquote>
 <p>正则表达式是一组由字母和符号组成的特殊文本，它可以用来从文本中找出满足你想要的格式的句子。</p>
@@ -713,5 +714,11 @@
 
 <p><a class="link" href="https://regex101.com/r/AyAdgJ/2">在线练习 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 ]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>.Net</tag>
+      </tags>
   </entry>
 </search>
